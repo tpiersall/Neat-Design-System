@@ -79,5 +79,6 @@
   "main": "index.js",
   "repository": "https://github.com/tpiersall/Neat-Design-System.git",
   "author": "toddpiersall <tpiersall@buxtonco.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "private": false
 }
