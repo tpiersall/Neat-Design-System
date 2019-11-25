@@ -1,6 +1,6 @@
 {
   "name": "neat-design-system",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "dependencies": {
     "@babel/preset-react": "^7.7.0",
     "@styled-system/theme-get": "^5.1.2",
