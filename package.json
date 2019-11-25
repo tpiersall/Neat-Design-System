@@ -10,6 +10,7 @@
     "@types/styled-system": "^5.1.4",
     "@types/styled-system__css": "^5.0.4",
     "framer-motion": "^1.6.15",
+    "fsevents": "^2.1.2",
     "github-labels": "^0.8.0",
     "match-sorter": "^4.0.2",
     "polished": "^3.4.2",
