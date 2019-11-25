@@ -1,0 +1,25 @@
+import { Meta, Story, ColorPalette, ColorItem, Preview, Canvas } from '@storybook/addon-docs/blocks';
+import {theme} from './theme.ts'
+
+
+<Meta title="Design System|Colors" />
+
+# Colors
+****
+****
+<ColorPalette>
+  <ColorItem title="Primary" colors={[theme.colors.primary]} />
+  <ColorItem title="Secondary" colors={[theme.colors.secondary]} />
+  <ColorItem
+    title="Grays"
+    subtitle="Grays 1-4"
+    colors={[
+      theme.colors.grays[0],
+      theme.colors.grays[1],
+      theme.colors.grays[2],
+      theme.colors.grays[3],
+      theme.colors.grays[4],
+     
+    ]}
+  />
+</ColorPalette>
